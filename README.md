@@ -1,6 +1,6 @@
-# Introducing BharatBill
+# Introducing Vyapaar Tracker
 
-Welcome to **BharatBill**, the first software in India designed to revolutionize the way you manage your GST invoices. With BharatBill, you can seamlessly convert your GST invoices from PDF directly into an updated inventory system and streamline your invoice data management process.
+Welcome to **Vyapaar Tracker**, the first software in India designed to revolutionize the way you manage your GST invoices. With BharatBill, you can seamlessly convert your GST invoices from PDF directly into an updated inventory system and streamline your invoice data management process.
 
 ## Features
 
@@ -10,7 +10,7 @@ Welcome to **BharatBill**, the first software in India designed to revolutionize
 
 - **Enhanced Productivity**: Embrace efficiency with BharatBill. Our software empowers you to streamline your workflow and focus on growing your business, while we take care of the paperwork.
 
-## Why Choose BharatBill?
+## Why Choose Vyapaar Tracker?
 
 - **Save Time**: Eliminate the need for manual data entry and tedious paperwork. With BharatBill, you can save valuable time and focus on what matters most – your business.
 
